@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <Button x:Name="BtnPrincipal" Height="40" Width="80" Margin="150,100,150,100" Click="Btn_Click">Olá Mundo!</Button>
+        <Button x:Name="BtnPrincipal" Height="40" Width="90" Margin="150,100,150,100" Click="Btn_Click">Adicionar Valor</Button>
+
+        <Label x:Name="lblContador" Content="Contador" HorizontalAlignment="Left" Margin="90,35,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="txtContador" HorizontalAlignment="Left" Height="23" Margin="80,60,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="120"/>
+
+        <Label x:Name="lblDiminuidor" Content="Diminuidor" HorizontalAlignment="Left" Margin="325,35,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDiminuidor" HorizontalAlignment="Left" Height="23" Margin="325,60,0,0" TextWrapping="Wrap" Text="50" VerticalAlignment="Top" Width="120"/>
+        
+
     </Grid>
 </Window>
