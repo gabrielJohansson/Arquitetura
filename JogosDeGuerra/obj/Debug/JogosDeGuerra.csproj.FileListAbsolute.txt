@@ -1,0 +1,16 @@
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\bin\Debug\JogosDeGuerra.exe.config
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\bin\Debug\JogosDeGuerra.exe
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\bin\Debug\JogosDeGuerra.pdb
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\JogosDeGuerra.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\MainWindow.g.cs
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\TelaDeGuerra.g.cs
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\App.g.cs
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\JogosDeGuerra_MarkupCompile.cache
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\JogosDeGuerra_MarkupCompile.lref
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\MainWindow.baml
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\TelaDeGuerra.baml
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\JogosDeGuerra.g.resources
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\JogosDeGuerra.Properties.Resources.resources
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\JogosDeGuerra.csproj.GenerateResource.Cache
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\JogosDeGuerra.exe
+C:\Users\Aluno\Source\Repos\Jogos-de-Guerra\JogosDeGuerra\obj\Debug\JogosDeGuerra.pdb
